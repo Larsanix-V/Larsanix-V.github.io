@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>A poopoo Website</title>
+    </head>
+    <body>
+        <h1> o/ This is the <em><strong>peak</strong></em><img src="chonkyboiyoshirainbow.gif" alt="chonky rainbow yoshi"
+                width="80"
+                height="80"> of my productivity<img src="infinitysymbolblink.gif" alt="infinity"
+                width="80"
+                height="80"></h1>
+        <h2>All the time I waste and this is the website I create...</h2>
+        <main>
+        <h3>Time Wasting activities are as follows</h3>
+            <!-- TODO: insert gif of rainbow roach spinning in a circle -->
+            <p>This is what's usually going on in my brain <a href="#"target="_blank">Doo Da Doo Dee Doo Da</a></p>
+            <iframe width="370" height="208" src="https://www.youtube.com/embed/9iV8mL8AfUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <p2><img src="monkeyisshocked.gif"
+                width="40"
+                height="40">iT mah actual brain</p2>
+            <p>Are you impressed yet? Of course not. Don't be.<img src="pepesadumbrella.gif" alt="pepe umbrella"
+                width="40"
+                height="40"></p>
+        <h3>How I completely waste my days:</h3>
+        <div class="lists">
+            <p>**Things you should <em>avoid</em> doing when you should be working or being productive...**</p>
+            <ul>
+                <li>Browsing through memes on various forums<img src="pepehehe.gif" alt="pepe laffter"
+                    width="40"
+                    height="40"></li>
+                <li>Mindlessly watching YouTube videos that offer you no type of advancement whatsoever<img src="pepepopcorn.gif"
+                    width="40"
+                    height="40"></li>
+                <li>Playing an excessive amount of video games<img src="PepeGamer.png" alt="gaming lolz"
+                    width="40"
+                    height="40"></li>
+                <li>Taking a week to build a website with no significant value...<img src="elpepehacker.gif" alt="pepe typer"
+                    width="40"
+                    height="40"></li>
+                <li>Lying in bed staring at the ceiling playing the same song on loop<img src="pepejam.gif" alt="dance pepe"
+                    width="40"
+                    height="40"></li>       
+                <li>Dancing around the house to the same song on loop...<img src="pugpls.gif" alt="dance pugpug"
+                    width="40"
+                    height="40"></li>           
+            </ul>
+            <p>My brain refuses to listen. Please halp.</p>    
+            <img src="brainpleasework2.png" alt="brain please work"               
+                     width="500"
+                     height="500">
+                <p>Why are you laughing?!</p>
+                <p>I'm being serious. <img src="pepesad.gif" alt="cry pepe cry"
+                    width="40"
+                    height="40"> Please halp.</p>
+                <p>Things I'd <strong>REALLY</strong> prefer to do instead of doing jack all</p>
+            <ol>
+                <li>Working tireless like one of those workaholic types of people that are so busy they have no time for themselves(yes, I'm serious)<img src="workinghardbusybusy.gif" alt="baby be busy"
+                    width="70"
+                    height="70"></li>
+                <li>Learning new languages and actually reading the books I bring home from the library<img src="thatonethinkingblackguy.gif" alt="using the think"
+                    width="70"
+                    height="70"></li>
+                <li>Giving my instruments more than the occasional glance and poke<img src="marcelineholdingguitar.gif" alt="Marc Holding Geetar"
+                    width="70"
+                    height="70"></li>
+            </ol>
+        </div>
+            <img src="iamAAAbattery.jpg" alt="forever exhausted"               
+                     width="500"
+                     height="500">
+            <form action="/submit-neurodivergent-meme">
+                <label for="Funny"><input id="Funny" type="radio" name="Funny-Depressing"> Funny</label><br>
+                <label for="Depressing"><input id="Depressing" type="radio" name="Funny-Depressing" checked> Depressing</label><br>
+
+                <label for="Relatable"><input id="Relatable" type="checkbox" name="Mood" checked> Relatable</label><br>
+                <label for="KEK"><input id="KEK" type="checkbox" name="Mood"> KEK</label><br>
+                <label for="Meh"><input id="Meh" type="checkbox" name="Mood"> Meh</label><br>
+
+                <input type="text" placeholder="neurodivergent meme URL" required><br>
+                <button type="submit">Submit</button>
+            </form>
+        </main>
+        <footer>
+            <p>At the end of the day though</p>
+            <img src="notperfectbutyouloveit.jpg" alt="be kind to the brain"
+                        width="500"
+                        height="500">
+            <p>I remember to <em>be kind</em> to my brain, cause I <strong>love</strong> what I'm doing.<img src="smilebekind.gif"
+                width="40"
+                height="40"></p>
+            <p> Thanks for stopping by!<img src="kekwiggle.gif"
+                width="40"
+                height="40"></p>
+            <small><p>You can thank <a href="https://freecodecamp.com" target="_blank">freecodecamp.com</a> for this hot mess</p></small>
+        </footer>
+    </body> 
+</html>      
